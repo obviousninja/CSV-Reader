@@ -1,0 +1,6 @@
+c:\users\randy\documents\visual studio 2013\Projects\csvReader\csvReader\bin\Debug\csvReader.exe.config
+c:\users\randy\documents\visual studio 2013\Projects\csvReader\csvReader\bin\Debug\csvReader.exe
+c:\users\randy\documents\visual studio 2013\Projects\csvReader\csvReader\bin\Debug\csvReader.pdb
+c:\users\randy\documents\visual studio 2013\Projects\csvReader\csvReader\obj\Debug\csvReader.exe
+c:\users\randy\documents\visual studio 2013\Projects\csvReader\csvReader\obj\Debug\csvReader.pdb
+C:\Users\Randy\documents\visual studio 2013\Projects\csvReader\csvReader\obj\Debug\csvReader.csprojResolveAssemblyReference.cache
